@@ -870,4 +870,8 @@
     <string name="lockscreen_date_selection_str_gradient">Gradient</string>
     <string name="lockscreen_date_selection_str_border_accent">Dark with accented borders</string>
     <string name="lockscreen_date_selection_str_border_gradient">Dark with gradient borders</string>
+
+    <!-- Keyguard multiuser switch -->
+    <string name="keyguard_multiuser_switch_title">Multiuser switch</string>
+    <string name="keyguard_multiuser_switch_summary">Show multiuser switch on the statusbar</string>
 </resources>
