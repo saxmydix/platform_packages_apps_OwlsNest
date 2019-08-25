@@ -724,6 +724,8 @@
     <string name="lockscreen_date_selection_str_gradient">Farbverlauf</string>
     <string name="lockscreen_date_selection_str_border_accent">Dunkel mit akzentuiertem Rahmen</string>
     <string name="lockscreen_date_selection_str_border_gradient">Dunkel mit Farbverlauf-Rahmen</string>
+    <string name="lockscreen_date_selection_str_half_gradient">Farbverlauf (abgerundet) mit transparentem Ende</string>
+    <string name="lockscreen_date_selection_str_half_accent">Akzent (abgerundet) mit transparentem Ende</string>
 
     <!-- Keyguard multiuser switch -->
     <string name="keyguard_multiuser_switch_title">Multiuser switch</string>
